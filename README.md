@@ -35,35 +35,34 @@ These files contain the structured data used to build and test the Insurance Cla
 
 ## Database Design
 The database was designed using a relational model with interconnected tables representing major components of an insurance claim workflow, including:
-
--Claim
--Policy
--PolicyCoverage
--CoveredPeople
--Vehicle
--History
--Employer
--Exposure
--FNOL
--Financials
--LossType
--LossState
+- Claim
+- Policy
+- PolicyCoverage
+- CoveredPeople
+- Vehicle
+- History
+- Employer
+- Exposure
+- FNOL
+- Financials
+- LossType
+- LossState
 Primary keys and foreign keys were used to maintain referential integrity and ensure consistency across the system.
 
 ## Key Features
--Designed a relational database for insurance claim tracking
--Integrated claim, policy, exposure, and financial records into one system
--Used primary and foreign key constraints for data integrity
--Supported claim processing from FNOL to settlement
--Enabled SQL-based reporting and operational analysis
+- Designed a relational database for insurance claim tracking
+- Integrated claim, policy, exposure, and financial records into one system
+- Used primary and foreign key constraints for data integrity
+- Supported claim processing from FNOL to settlement
+- Enabled SQL-based reporting and operational analysis
 
 ## Analysis Performed
 SQL queries were used to analyze:
--Total claims by policy
--Employees processing the highest number of claims
--Claims with missing exposure details
--Claim severity distribution
--Active and inactive policies with associated claims
+- Total claims by policy
+- Employees processing the highest number of claims
+- Claims with missing exposure details
+- Claim severity distribution
+- Active and inactive policies with associated claims
 
 ## Results
 This project demonstrates how SQL and relational database design can be used to streamline insurance claim management, reduce inconsistency, and support better reporting and decision-making.
