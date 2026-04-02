@@ -32,7 +32,3 @@ Included data files:
 - Vehicle.xlsx
 
 These files contain the structured data used to build and test the Insurance Claim Management System.
-│
-└── images/
-    ├── erd.png
-    └── query-results.png
