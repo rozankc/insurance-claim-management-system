@@ -1,0 +1,26 @@
+﻿vehicle_id,vehicleName,model,yearManufactured,color
+AZ-123-ABC,Toyota Corolla,Coupe,2022/01/01,Black
+CA-456-XYZ,Tesla Model 3,Truck,2005/01/01,Blue
+FL-789-DEF,Ford Focus,Coupe,2010/01/01,Grey
+NY-101-ABC,Toyota Corolla,SUV,2014/01/01,Red
+TX-234-XYZ,Honda Civic,Truck,1991/01/01,Grey
+PA-567-DEF,Ford Focus,Truck,2010/01/01,Grey
+OH-890-ABC,Chevrolet Malibu,SUV,2007/01/01,Red
+MI-123-XYZ,Ford Focus,Sedan,2022/01/01,Red
+IL-456-DEF,Ford Focus,Coupe,1995/01/01,Black
+GA-789-ABC,Chevrolet Malibu,SUV,2022/01/01,Black
+VA-101-XYZ,Chevrolet Malibu,SUV,2009/01/01,White
+NJ-234-DEF,Tesla Model 3,Truck,2020/01/01,Grey
+NC-567-ABC,Honda Civic,Sedan,2023/01/01,White
+MA-890-XYZ,Toyota Corolla,Sedan,2020/01/01,Blue
+WA-123-DEF,Toyota Corolla,Coupe,2007/01/01,Black
+CO-456-ABC,Ford Focus,SUV,2018/01/01,White
+TN-789-XYZ,Chevrolet Malibu,Coupe,2022/01/01,Red
+MN-101-DEF,Honda Civic,Truck,1993/01/01,Red
+MD-234-ABC,Chevrolet Malibu,SUV,1998/01/01,Silver
+MO-567-XYZ,Honda Civic,Sedan,2012/01/01,Blue
+IN-890-ABC,Ford Focus,SUV,2006/01/01,Silver
+AZ-123-XYZ,Tesla Model 3,SUV,1994/01/01,Blue
+CA-456-DEF,Honda Civic,Coupe,2006/01/01,Grey
+FL-789-ABC,Toyota Corolla,SUV,2010/01/01,Silver
+NY-101-XYZ,Chevrolet Malibu,Truck,2000/01/01,Red

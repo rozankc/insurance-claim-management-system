@@ -1,0 +1,6 @@
+﻿lossType_id,lossTypeName,lossCategory
+LOSSID-1234,Collision Damage,Auto
+LOSSID-5678,Theft,Personal
+LOSSID-9012,Hit-and-Run Damage,Auto
+LOSSID-3456,Flood Damage,Personal
+LOSSID-7890,Hail Damage,Personal

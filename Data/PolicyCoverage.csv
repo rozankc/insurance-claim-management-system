@@ -1,0 +1,7 @@
+﻿policyCoverage_id,coverageName_NAME,coveredAmount,deductible
+PCovID-1234,Liability,28641.69,1920.14
+PCovID-5678,Collision,84243.92,720.88
+PCovID-9012,Comprehensive,17770.7,1886.38
+PCovID-3456,Uninsured Motorist,29495.41,125.55
+PCovID-7890,Personal Injury Protection,55324.8,1693.53
+PCovID-7891,Third party Liability,41615.24,583.02
