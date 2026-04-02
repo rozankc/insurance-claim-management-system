@@ -56,6 +56,11 @@ Primary keys and foreign keys were used to maintain referential integrity and en
 - Supported claim processing from FNOL to settlement
 - Enabled SQL-based reporting and operational analysis
 
+## My Contribution
+- Designed the Entity-Relationship Diagram (ERD) to define the database structure  
+- Assisted in data collection and preparation using structured datasets  
+- Contributed to SQL-based analysis by writing and modifying queries to extract insights  
+
 ## Analysis Performed
 SQL queries were used to analyze:
 - Total claims by policy
